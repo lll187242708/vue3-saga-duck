@@ -10,6 +10,11 @@ export default {
   name: 'App',
   components: {
     HelloWorld
+  },
+  setup() {
+    return {
+      
+    }
   }
 }
 </script>
